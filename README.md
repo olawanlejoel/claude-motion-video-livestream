@@ -8,6 +8,7 @@ Assets from the livestream where I explored how to turn designs into motion grap
 
 ```
 prompts/   The prompts used on stream
+videos/    The videos rendered from them
 skills/    The agent skill and style guide that drive the video output
 links.md   Tools and inspiration mentioned during the stream
 ```
@@ -43,7 +44,6 @@ To use the skill with Claude Code, put `SKill-2.md` in a folder under `.claude/s
 ## Notes
 
 - The Tesla and Knorr ads are unofficial concepts made for demonstration. Both brands belong to their owners.
-- The rendered videos from the stream are not included in this repo. Watch them in the recording.
 
 ## Links
 
